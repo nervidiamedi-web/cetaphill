@@ -1,0 +1,6 @@
+{
+  "name": "Cetaphil Skincare",
+  "description": "Dermatologist-recommended sensitive skincare products, gentle cleansers, moisturizing creams, baby care, and sun protection in Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
